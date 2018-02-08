@@ -9,6 +9,13 @@ A script for mass updating repositories which use rbenv with `.ruby-version` fil
 - Commit the changes to both the `.ruby-version` and `Gemfile.lock`
 - Run the tests and log whether or not they passed or failed
 
+### Example output
+
+```
+../foo	PASS
+/bar/foobar	FAIL
+```
+
 ## Requirements
 
 - rbenv
