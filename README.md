@@ -36,4 +36,5 @@ A script for mass updating repositories which use rbenv with `.ruby-version` fil
 
 - Custom test commands
 - Ability to hide stdout/stderr
+- Checking for Dockerfiles to ensure the version for ruby is upgraded there
 
