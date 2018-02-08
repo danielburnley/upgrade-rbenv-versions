@@ -1,0 +1,6 @@
+venv/
+.pytest_cache/
+.vscode/
+*.pyc
+ruby-upgrade.log
+repos.txt
